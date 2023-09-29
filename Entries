@@ -1,0 +1,175 @@
+{
+    "bozo": False,
+    "entries": {
+        "title": "IDEG Asset Management Partners With Coinbase Prime to Launch Actively Managed ETH Fund",
+        "title_detail": {
+            "type": "text/plain",
+            "language": None,
+            "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "value": "IDEG Asset Management Partners With Coinbase Prime to Launch Actively Managed ETH Fund"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.coindesk.com/business/2022/04/12/ideg-asset-management-partners-with-coinbase-prime-to-launch-actively-managed-eth-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+            }
+        ],
+        "link": "https://www.coindesk.com/business/2022/04/12/ideg-asset-management-partners-with-coinbase-prime-to-launch-actively-managed-eth-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+        "id": "SA34BZHVG5DGZGA73BJYRKNUPE",
+        "guidislink": False,
+        "authors": [
+            {
+                "name": "Aoyon Ashraf"
+            }
+        ],
+        "author": "Aoyon Ashraf",
+        "author_detail": {
+            "name": "Aoyon Ashraf"
+        },
+        "summary": "The new fund will be part of IDEG\u2019s thematic product suite, \u201cTIMES.\u201d",
+        "summary_detail": {
+            "type": "text/html",
+            "language": None,
+            "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "value": "The new fund will be part of IDEG\u2019s thematic product suite, \u201cTIMES.\u201d"
+        },
+        "published": "Tue, 12 Apr 2022 00:00:00 +0000",
+        "published_parsed": [ 2022, 4, 12, 0, 0, 0, 1, 102, 0],
+        "updated": "2022-04-12T02:24:10.777+00:00",
+        "updated_parsed": [ 2022, 4, 12, 2, 24, 10, 1, 102, 0],
+        "tags": [
+            {
+                "term": "Business",
+                "scheme": "https://www.coindesk.com/business/",
+                "label": None
+            }
+        ],
+        "media_content": [
+            {
+                "url": "https://www.coindesk.com/resizer/OU8arxxyxaslFmjEoDkYJMoBb0s=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/J4B5F34FYBBEHE2FHFP6MCQHWY.jpg",
+                "type": "image/jpeg",
+                "height": "600",
+                "width": "800"
+            }
+        ],
+        "content": [
+            {
+                "type": "text/plain",
+                "language": None,
+                "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+                "value": "A digital screen displays the price of cryptocurrency Ethereum to U.S. dollar in Hong Kong, China, on Friday, March 25, 2022. Bitcoin\u00a0climbed to more than $44,000 for the first time in almost a month, breaking out of its recent narrow trading range amid a renewal of risk appetite.\u00a0Photographer: Paul Yeung/Bloomberg via Getty Images"
+            }
+        ],
+        "media_credit": [
+            {
+                "role": "author",
+                "scheme": "urn:ebu",
+                "content": "Bloomberg"
+            }
+        ],
+        "credit": "Bloomberg"
+    },
+    "feed": {
+        "title": "CoinDesk",
+        "title_detail": {
+            "type": "text/plain",
+            "language": None,
+            "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "value": "CoinDesk"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.coindesk.com"
+            },
+            {
+                "href": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
+                "rel": "self",
+                "type": "application/rss+xml"
+            }
+        ],
+        "link": "https://www.coindesk.com",
+        "subtitle": "Latest headlines from Coindesk.",
+        "subtitle_detail": {
+            "type": "text/html",
+            "language": None,
+            "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "value": "Latest headlines from Coindesk."
+        },
+        "updated": "Tue, 12 Apr 2022 05:45:46 +0000",
+        "updated_parsed": [ 2022, 4, 12, 5, 45, 46, 1, 102, 0],
+        "language": "en-US",
+        "tags": [
+            {
+                "term": "News",
+                "scheme": "https://www.coindesk.com",
+                "label": None
+            }
+        ],
+        "rights": "\u00a9 2022 CoinDesk, Inc.",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": None,
+            "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "value": "\u00a9 2022 CoinDesk, Inc."
+        },
+        "generator_detail": {
+            "name": "Arc Publishing"
+        },
+        "generator": "Arc Publishing",
+        "ttl": "5",
+        "sy_updateperiod": "hourly",
+        "sy_updatefrequency": "12",
+        "image": {
+            "href": "https://www.coindesk.com/resizer/fTK3gATlyciJ-BZG2_OP12niDe0=/144x32/downloads.coindesk.com/arc/failsafe/feeds/coindesk-feed-logo.png",
+            "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+            "title_detail": {
+                "type": "text/plain",
+                "language": None,
+                "base": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+                "value": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.coindesk.com"
+                }
+            ],
+            "link": "https://www.coindesk.com"
+        }
+    },
+    "headers": {
+        "content-type": "application/xml; charset=utf-8",
+        "content-length": "14978",
+        "server": "openresty",
+        "content-encoding": "gzip",
+        "etag": "W/\"e67b-WoiTK6kIwyIrcoeTTMWcUFAjB4Y\"",
+        "last-modified": "Tue, 12 Apr 2022 05:45:46 GMT",
+        "vary": "Accept-Encoding",
+        "cache-control": "private, max-age=186",
+        "expires": "Tue, 12 Apr 2022 05:50:43 GMT",
+        "date": "Tue, 12 Apr 2022 05:47:37 GMT",
+        "connection": "close",
+        "set-cookie": "akaas_AS_coindesk_coindesk_prod=2147483647~rv=96~id=fb4fbaddffd162f74cf2fd438106dc0d; path=/; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; SameSite=None",
+        "content-security-policy": "upgrade-insecure-requests"
+    },
+    "etag": "W/\"e67b-WoiTK6kIwyIrcoeTTMWcUFAjB4Y\"",
+    "updated": "Tue, 12 Apr 2022 05:45:46 GMT",
+    "updated_parsed": [ 2022, 4, 12, 5, 45, 46, 1, 102, 0],
+    "href": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "status": 200,
+    "encoding": "utf-8",
+    "version": "rss20",
+    "namespaces": {
+        "content": "http://purl.org/rss/1.0/modules/content/",
+        "wfw": "http://wellformedweb.org/CommentAPI/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "": "http://www.w3.org/2005/Atom",
+        "sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "slash": "http://purl.org/rss/1.0/modules/slash/",
+        "media": "http://search.yahoo.com/mrss/"
+    }
+}

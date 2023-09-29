@@ -1,0 +1,8 @@
+
+rss_feed_urls = ["https://www.coindesk.com/arc/outboundfeeds/rss/", \
+        "https://cointelegraph.com/rss", "https://news.bitcoin.com/feed/", \
+        "https://cryptopotato.com/feed/", \
+        "https://zycrypto.com/category/news/feed/", \
+        "https://nulltx.com/feed/", "https://coinquora.com/news/feed/", \
+        "https://ambcrypto.com/feed/", "https://cryptoslate.com/feed/", \
+        "https://crypto.news/feed/"]
